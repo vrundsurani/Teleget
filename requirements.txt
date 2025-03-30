@@ -1,1 +1,2 @@
-requests==2.28.2
+sudo apt update
+sudo apt install aircrack-ng hostapd dnsmasq python3-flask requests tcpdump
